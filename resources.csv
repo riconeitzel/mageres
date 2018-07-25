@@ -75,9 +75,10 @@ Extensions,Magento 1,Compressed Magento 1.9 Sample Data,https://github.com/Vinai
 Extensions,Magento 1,Danslo AoP,https://github.com/danslo/Danslo_Aop,Enables Aspect-Oriented Programming in Magento
 Extensions,Magento 1,Danslo ApiImport,https://github.com/danslo/ApiImport,Wrapper for Magento Import/Export
 Extensions,Magento 1,EcomDev Layout Compiler,https://github.com/EcomDev/EcomDev_LayoutCompiler,Transforms recursive Magento 1 XML ayout files into simple one level php code
-Extensions,Magento 1,Firegento Debug,https://github.com/firegento/firegento-debug,Provides some debbuging functionality for Magento
-Extensions,Magento 1,Firegento Logger,https://github.com/firegento/firegento-logger,Provides a simple framework for different logging adapters
-Extensions,Magento 1,Firegento PDF,https://github.com/firegento/firegento-pdf,"Overwrites standard PDF layouts for invoices, shipments and creditmemos"
+Extensions,Magento 1,FireGento Debug,https://github.com/firegento/firegento-debug,Provides some debbuging functionality for Magento
+Extensions,Magento 1,FireGento MageSetup,https://github.com/firegento/firegento-magesetup,Makes Magento compliant to German Law
+Extensions,Magento 1,FireGento Logger,https://github.com/firegento/firegento-logger,Provides a simple framework for different logging adapters
+Extensions,Magento 1,FireGento PDF,https://github.com/firegento/firegento-pdf,"Overwrites standard PDF layouts for invoices, shipments and creditmemos"
 Extensions,Magento 1,Flagbit ChangeAttributeSet,https://github.com/Flagbit/Magento-ChangeAttributeSet,Extension that lets you change attribute set for every product
 Extensions,Magento 1,Magemonolog,https://github.com/aleron75/magemonolog,Provides a custom writer model to transparently use Monolog as logging library
 Extensions,Magento 1,LimeSoda Environment Configuration,https://github.com/LimeSoda/LimeSoda_EnvironmentConfiguration,
@@ -94,6 +95,7 @@ Extensions,Magento 1,MageSpecialist DevTools for Magento 1,https://github.com/ma
 Extensions,Magento 1,Mgt Developer Toolbar for Magento 1,https://www.mgt-commerce.com/magento-developer-toolbar.html,"Magento 1 developer toolbar with profiling, database queries, handles, event/observer overview, block nesting, requests and caching."
 Extensions,Magento 2,Yireo GoogleTagManager2,https://github.com/yireo/Yireo_GoogleTagManager2,Add Google Tag Manager to Magento2
 Extensions,Magento 2,Danslo CleanCheckout,https://github.com/danslo/CleanCheckout,A drop-in replacement for the Magento 2 checkout
+Extensions,Magento 2,FireGento MageSetup for Magento 2,https://github.com/firegento/firegento-magesetup2,Makes Magento compliant to German Law
 Extensions,Magento 2,MageMojo cron project,https://github.com/magemojo/m2-ce-cron,"This module for Magento 2 overrides base magento cron functionality, fixes known bugs, and provides a cron service model to control cron process execution."
 Extensions,Magento 2,MSP_SMTP,https://github.com/magespecialist/m2-MSP_SMTP,MSP_SMTP is a module for Magento 2 allowing send mail via SMTP
 Extensions,Magento 2,ElasticSuite for Magento 2 ,https://github.com/Smile-SA/elasticsuite,A feature-rich merchandising suite for Magento 2.
